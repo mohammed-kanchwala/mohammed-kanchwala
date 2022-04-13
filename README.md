@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/mohammed-kanchwala-94256399/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://github.com/mohammed-kanchwala"><img src="https://img.shields.io/badge/Akash %20Kumar-Welcomes%20You-007afb?style=for-the-badge&logo=hackaday" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://github.com/mohammed-kanchwala"><img src="https://img.shields.io/badge/Mohammed %20Kanchwala-Welcomes%20You-007afb?style=for-the-badge&logo=hackaday" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mohammed.kanchwala@outlook.com?subject=Hello%20Mohammed,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p>
